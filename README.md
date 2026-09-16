@@ -191,13 +191,13 @@ I'm particularly interested in building;
 
 ---
 
-# 🤝 Let's Connect:
+## 🤝 Let's Connect
 
 I'm always interested in connecting with developers, learning from others, collaborating on projects, and exploring opportunities to grow as a software developer.
 
-* 💼 LinkedIn: 
-* 🌐 Portfolio:
-* 🐙 GitHub: [@A01bna45](https://github.com/A01bna45)
+- 💼 LinkedIn: [Abdullah Nagra](https://www.linkedin.com/in/abdullah-nagra-3b4525376/)
+- 🌐 Portfolio: Coming Soon
+- 🐙 GitHub: [@A01bna45](https://github.com/A01bna45)
 
 ---
 
